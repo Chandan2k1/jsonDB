@@ -19,3 +19,7 @@ JsonPowerDB (JPDB) is Next Generation, Creative and Disruptive Multi-mode DBMS_ 
 * Standardisation of API development framework makes the development process easy, more readable, and less error prone.
 * Multiple security layers.
 * Nimble, Simple to use, In Memory, Real-time DBMS.
+
+# Screenshots
+![ ](ss1.png)
+![ ](ss2.png)
